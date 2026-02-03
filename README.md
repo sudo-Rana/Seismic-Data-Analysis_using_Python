@@ -1,5 +1,5 @@
 # Seismic-Data-Analysis
-Seismic SEG-Y Data Loading, Analysis ,Visualization ,4D difference analysis and Visualization and Data Vectorization in Python (segyio | segysac | Netcdf | x-Array)
+Seismic SEG-Y Data Loading, Analysis, Visualization, 4D difference analysis, and Data Vectorization in Python (segyio | segysac | Netcdf | x-Array)
 <h1>How to Load Data</h1>
 <h3><a href="https://data.equinor.com/dataset/Volve">Data Download Site Link</a></h3>
 <li>Open the Link , log in and go to volve Data Village Data </li.
